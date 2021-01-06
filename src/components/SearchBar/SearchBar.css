@@ -1,0 +1,30 @@
+.nav-bar {
+  position: sticky;
+  height: 80px;
+  display: flex;
+  background-color: #f25f4c;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  height: 50px;
+}
+
+input {
+  background: #fffffe;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  height: 25px;
+  width: 350px;
+  padding: 10px;
+  font-size: 20px;
+  color: #232946;
+}
+
+.site-title {
+  position: relative;
+  font-size: 18px;
+  bottom: 12px;
+}
